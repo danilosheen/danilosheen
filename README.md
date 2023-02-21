@@ -25,4 +25,4 @@ Welcome to my profile
 
 ## Tecnologias e linguagens que já tive contato
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,python,vscode,linux,flutter,dart,c,java,nodejs, golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,python,django,go,vscode,linux,flutter,dart,c,java,nodejs)](https://skillicons.dev)
