@@ -12,12 +12,12 @@ Welcome to my profile
   - Leitura
   - Filmes e séries
 
-## Alguns dados
+## Informações github
 
 ![Dados Github](https://github-readme-stats.vercel.app/api?username=danilosheen&theme=dracula&show_icons=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosheen&layout=compact&theme=dracula)
 
-## How to contact me:
+## Contatos:
 
 [![Logo Github](https://skillicons.dev/icons?i=github)](https://github.com/danilosheen)
 [![Logo Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cicero-danilo-b56969194/)
@@ -25,4 +25,4 @@ Welcome to my profile
 
 ## Tecnologias e linguagens que já tive contato
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,python,vscode,linux,flutter,dart,c,java,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,python,vscode,linux,flutter,dart,c,java,nodejs, go)](https://skillicons.dev)
