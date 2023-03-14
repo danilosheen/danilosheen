@@ -19,8 +19,7 @@ Welcome to my profile
 
 ## Contatos
 
-[![Logo Github](https://skillicons.dev/icons?i=github)](https://github.com/danilosheen)
-[![Logo Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cicero-danilo-b56969194/)
+[![Logo Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danilo-ferreira-b56969194/)
 [![Logo Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danilo.ferreira.exe/)
 
 ## Tecnologias e linguagens que já tive contato
