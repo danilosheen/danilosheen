@@ -19,8 +19,8 @@ Seja bem vindo(a) ao meu perfil!
 
 ## Dados github
 
-![Dados Github](https://github-readme-stats.vercel.app/api?username=danilosheen&theme=dracula&show_icons=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosheen&layout=compact&theme=dracula)
+![Dados Github](https://github-readme-stats-danilosheen.vercel.app/api?username=danilosheen&theme=dracula&show_icons=true)
+![Linguagens mais usadas](https://github-readme-stats-danilosheen.vercel.app/api/top-langs/?username=danilosheen&layout=compact&theme=dracula)
 
 ## Contatos
 
