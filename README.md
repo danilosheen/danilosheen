@@ -5,12 +5,12 @@ Seja bem vindo(a) ao meu perfil!
 
 ## Sobre mim
 
-- Acadêmico de Sistemas de Informação no IFCE - Campus Crato.
+- Bacharel em Sistemas de Informação no IFCE - Campus Crato.
 - Sou apaixonado por tecnologia e estou me aprimorando todos os dias visando me tornar um excelente profissional.
 - Nos momentos livres curto:
-  - Jogos online
   - Leitura
   - Filmes e séries
+  - Jogos online
  
 ## Quer saber mais como escolhi a área? <br>
 <p align="justify">
