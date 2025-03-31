@@ -27,6 +27,6 @@ Seja bem vindo(a) ao meu perfil!
 [![Logo Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danilo-ferreira-b56969194/)
 [![Logo Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danilo.ferreira.exe/)
 
-## Tecnologias e linguagens que já tive contato
+## Tecnologias e linguagens que fazem parte da minha stack
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,python,django,go,vscode,linux,flutter,dart,c,java,nodejs,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,angular,nodejs,aws,js,ts,html,css,bootstrap,postgres,mysql,python,vscode,linux,java,postman)](https://skillicons.dev)
